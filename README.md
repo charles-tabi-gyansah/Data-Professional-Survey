@@ -73,10 +73,15 @@ The analysis shows clear differences in salary and satisfaction across data role
 
 
 ## Repository Structure
-- .pbix
+- Data Professional Survey.pbix
+- Data_Professional_Survey_Screenshot.png
 - README.md
 
 
+
+## Author
+Charles Tabi Gyansah
+Aspiring Data Analyst | Excel • SQL • Power BI • Tableau
 
 
 
