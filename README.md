@@ -62,6 +62,29 @@ The dataset is based on a survey of data professionals and includes information 
 
 
 
+## Dashboard Screenshot
+<img width="659" height="340" alt="Data_Professional_Survey_Screenshot" src="https://github.com/user-attachments/assets/ee702386-deb5-4058-bba4-1b7f29711848" />
+
+
+
+## Insights Summary
+The analysis shows clear differences in salary and satisfaction across data roles, with certain programming languages and roles dominating the industry. Work-life balance and compensation emerged as key factors influencing job satisfaction.
+
+
+
+## Repository Structure
+- .pbix
+- README.md
+
+
+
+
+
+
+
+
+
+
 
 
 
