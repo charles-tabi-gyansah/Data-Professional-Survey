@@ -4,7 +4,6 @@
 This project analyzes a Data Professional Survey using Power BI. The workflow includes data cleaning and transformation using Power Query, followed by data modeling and interactive visualizations to uncover insights about data professionals’ roles, salaries, tools, and job satisfaction.
 
 This project demonstrates the ability to handle end-to-end business intelligence tasks within Power BI.
-<a href = "https://github.com/charles-tabi-gyansah/Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pbix">Dataset</a>
 
 
 
